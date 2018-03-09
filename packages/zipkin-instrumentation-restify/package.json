@@ -1,6 +1,6 @@
 {
   "name": "@wosai/zipkin-instrumentation-restify",
-  "version": "0.12.1-0",
+  "version": "0.12.2-0",
   "description": "Restify middleware for instrumentation with Zipkin.js",
   "main": "lib/index.js",
   "scripts": {

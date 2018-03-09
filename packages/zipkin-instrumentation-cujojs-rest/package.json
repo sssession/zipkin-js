@@ -1,6 +1,6 @@
 {
   "name": "@wosai/zipkin-instrumentation-cujojs-rest",
-  "version": "0.12.1-0",
+  "version": "0.12.2-0",
   "description": "Interceptor for instrumenting HTTP calls from the cujoJS rest library",
   "main": "lib/index.js",
   "scripts": {

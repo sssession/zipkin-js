@@ -1,6 +1,6 @@
 {
   "name": "@wosai/zipkin-instrumentation-request",
-  "version": "0.12.1-0",
+  "version": "0.12.2-0",
   "description": "Instrumentation for request with Zipkin.js",
   "main": "lib/index.js",
   "types": "index.d.ts",
