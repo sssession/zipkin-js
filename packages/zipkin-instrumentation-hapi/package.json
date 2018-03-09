@@ -1,6 +1,6 @@
 {
   "name": "@wosai/zipkin-instrumentation-hapi",
-  "version": "0.12.0",
+  "version": "0.12.1-0",
   "description": "Hapi middleware for instrumentation with Zipkin.js",
   "main": "lib/index.js",
   "scripts": {
