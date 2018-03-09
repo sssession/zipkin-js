@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-instrumentation-postgres",
+  "name": "@wosai/zipkin-instrumentation-postgres",
   "version": "0.12.0",
   "description": "Interceptor for postgres clients",
   "main": "lib/zipkinClient.js",

@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-instrumentation-redis",
+  "name": "@wosai/zipkin-instrumentation-redis",
   "version": "0.12.0",
   "description": "Interceptor for redis clients",
   "main": "lib/zipkinClient.js",

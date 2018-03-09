@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-instrumentation-memcached",
+  "name": "@wosai/zipkin-instrumentation-memcached",
   "version": "0.12.0",
   "description": "Interceptor for memcached clients",
   "main": "lib/zipkinClient.js",

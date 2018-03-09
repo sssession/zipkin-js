@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-instrumentation-request",
+  "name": "@wosai/zipkin-instrumentation-request",
   "version": "0.12.0",
   "description": "Instrumentation for request with Zipkin.js",
   "main": "lib/index.js",

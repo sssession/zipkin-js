@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-instrumentation-fetch",
+  "name": "@wosai/zipkin-instrumentation-fetch",
   "version": "0.12.0",
   "description": "Interceptor for HTTP clients using the 'fetch' API",
   "main": "lib/index.js",

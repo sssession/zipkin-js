@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-transport-http",
+  "name": "@wosai/zipkin-transport-http",
   "version": "0.12.0",
   "description": "Transports Zipkin trace data via HTTP",
   "main": "lib/index.js",

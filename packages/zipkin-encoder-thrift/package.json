@@ -1,5 +1,5 @@
 {
-  "name": "zipkin-encoder-thrift",
+  "name": "@wosai/zipkin-encoder-thrift",
   "version": "0.12.0",
   "description": "Encode a zipkin span to thrift",
   "main": "lib/index.js",
